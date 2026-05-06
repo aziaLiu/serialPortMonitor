@@ -1,0 +1,26 @@
+# Build outputs
+bin/
+obj/
+_dist/
+_publish/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+
+# VS Code
+.vscode/
+
+# tModLoader / Terraria local files
+*.tmod
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
